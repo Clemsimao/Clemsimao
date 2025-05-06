@@ -28,8 +28,8 @@ Continuer à progresser, explorer des projets open source, et toujours apprendre
 
 ### 📊 Mes stats GitHub
 
-![Clément's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=github_dark)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=github_dark)
+![Clément's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clemsimao&show_icons=true&theme=github_dark)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clemsimao&layout=compact&theme=github_dark)
 
 ---
 
