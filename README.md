@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Clément
 
-<!--
-**Clemsimao/Clemsimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+💻 **Je développe avec :**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+🌱 **Actuellement en formation :**  
+Concepteur Développeur Web chez [O'Clock](https://oclock.io)
+
+🚀 **Centres d’intérêt :**  
+- Backend (Node.js, Express, API)
+- Bases de données (PostgreSQL)
+- Frontend (React, TypeScript)
+
+💡 **Objectifs :**  
+Continuer à progresser, explorer des projets open source, et toujours apprendre de nouvelles technos !
+
+---
+
+### 📊 Mes stats GitHub
+
+![Clément's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=github_dark)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+✉️ **Contacte-moi** : simaoclement33@gmail.com (mailto:simaoclement33@gmail.com)
