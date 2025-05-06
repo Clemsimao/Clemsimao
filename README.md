@@ -16,10 +16,7 @@ Bienvenue sur mon profil GitHub !
 🌱 **Actuellement en formation :**  
 Concepteur Développeur Web chez [O'Clock](https://oclock.io)
 
-🚀 **Centres d’intérêt :**  
-- Backend (Node.js, Express, API)
-- Bases de données (PostgreSQL)
-- Frontend (React, TypeScript)
+---
 
 💡 **Objectifs :**  
 Continuer à progresser, explorer des projets open source, et toujours apprendre de nouvelles technos !
@@ -33,4 +30,4 @@ Continuer à progresser, explorer des projets open source, et toujours apprendre
 
 ---
 
-✉️ **Contacte-moi** : simaoclement33@gmail.com (mailto:simaoclement33@gmail.com)
+✉️ **Contacte-moi** : [Envoyer un mail](mailto:12345678+Clemsimao@users.noreply.github.com)
