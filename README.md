@@ -20,7 +20,7 @@ Concepteur Développeur Web chez [O'Clock](https://oclock.io)
 ---
 
 🕵️‍♂️ **En recherche :**  
-Alternance en développement Web pour un Master chez Ynov Campus Bordeaux (rythme 3 semaines entreprise, 1 école).
+Alternance en développement Web pour un Master chez Ynov Campus Bordeaux (rythme 2 semaines entreprise, 1 école).
 
 ---
 
