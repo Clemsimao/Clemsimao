@@ -20,11 +20,6 @@ Concepteur Développeur Web chez [O'Clock](https://oclock.io)
 
 ---
 
-🕵️‍♂️ **En recherche :**  
-Alternance en développement Web pour un Master (rythme 2 semaines entreprise, 1 école).
-
----
-
 💡 **Objectifs :**  
 Continuer à progresser, explorer des projets open source, et toujours apprendre de nouvelles technos !
 
