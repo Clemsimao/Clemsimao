@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub !
 
-💻 **Je développe avec :**
+ **Je développe avec :**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,21 +15,21 @@ Bienvenue sur mon profil GitHub !
 
 ---
 
-🌱 **Actuellement en formation :**  
+ **Actuellement en formation :**  
 Concepteur Développeur Web chez [O'Clock](https://oclock.io)
 
 ---
 
-💡 **Objectifs :**  
+ **Objectifs :**  
 Continuer à progresser, explorer des projets open source, et toujours apprendre de nouvelles technos !
 
 ---
 
-### 📊 Mes stats GitHub
+###  Mes stats GitHub
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clemsimao&layout=compact&theme=github_dark)
 ![Clément's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clemsimao&show_icons=true&theme=github_dark)
 
 ---
 
-✉️ **Contacte-moi** : [Envoyer un mail](mailto:12345678+Clemsimao@users.noreply.github.com)
+✉ **Contacte-moi** : [Envoyer un mail](mailto:12345678+Clemsimao@users.noreply.github.com)
