@@ -16,7 +16,8 @@ Bienvenue sur mon profil GitHub !
 ---
 
  **Actuellement en formation :**  
-Concepteur Développeur Web chez [O'Clock](https://oclock.io)
+Concepteur Développeur Web chez [O'Clock](https://oclock.io)  
+🎓 À la rentrée, je poursuis en **Mastère Développeur Full Stack** en alternance chez **MyDigitalSchool Bordeaux**
 
 ---
 
@@ -25,10 +26,15 @@ Continuer à progresser, explorer des projets open source, et toujours apprendre
 
 ---
 
-###  Mes stats GitHub
+<details>
+  <summary>📊 Mes stats GitHub (clique pour voir)</summary>
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clemsimao&layout=compact&theme=github_dark)
-![Clément's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clemsimao&show_icons=true&theme=github_dark)
+  <br>
+
+  ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clemsimao&layout=compact&theme=github_dark)  
+  ![Clément's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clemsimao&show_icons=true&theme=github_dark)
+
+</details>
 
 ---
 
