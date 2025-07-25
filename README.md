@@ -18,7 +18,7 @@ Bienvenue sur mon profil GitHub !
 
 ---
 
- **Actuellement en formation :**  
+ **Actuellement en formation :** 
 Concepteur Développeur Web chez [O'Clock](https://oclock.io)
 🎓 À la rentrée, je poursuis en **Mastère Développeur Full Stack** en alternance chez [MyDigitalSchool](https://www.mydigitalschool.com) Bordeaux
 
