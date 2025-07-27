@@ -24,7 +24,7 @@ Concepteur Développeur Web chez [O'Clock](https://oclock.io)
 
 ---
 
- **Objectifs :**  
+ **Objectifs :** 
 Continuer à progresser, explorer des projets open source, et toujours apprendre de nouvelles technos !
 
 ---
