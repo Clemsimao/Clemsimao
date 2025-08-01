@@ -23,7 +23,7 @@ Concepteur Développeur Web chez [O'Clock](https://oclock.io)
 🎓 À la rentrée, je poursuis en **Mastère Développeur Full Stack** en alternance chez [MyDigitalSchool](https://www.mydigitalschool.com) Bordeaux
 
 ---
-
+ 
  **Objectifs :**
 Continuer à progresser, explorer des projets open source, et toujours apprendre de nouvelles technos !
 
