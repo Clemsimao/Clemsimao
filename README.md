@@ -17,7 +17,7 @@ Bienvenue sur mon profil GitHub !
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  
 ---
-
+ 
  **Actuellement en formation :**
 Concepteur Développeur Web chez [O'Clock](https://oclock.io)
 🎓 À la rentrée, je poursuis en **Mastère Développeur Full Stack** en alternance chez [MyDigitalSchool](https://www.mydigitalschool.com) Bordeaux
