@@ -16,7 +16,7 @@ Bienvenue sur mon profil GitHub !
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
----
+--- 
  
  **Actuellement en formation :**
 Concepteur Développeur Web chez [O'Clock](https://oclock.io)
